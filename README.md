@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Maxi377
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Dart & Flutter
+- 💞️ I’m looking to collaborate on apps with flutter
+- 📫 How to reach me valky377@gmail.com
